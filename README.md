@@ -44,7 +44,7 @@ We will provide  one-stop CDK solution in the furture. But for now, we need blow
             'BOOL': Status,
         },
     ```
-* Eventbridge rule with patten like blow
+3. Eventbridge rule with patten like blow
   
   Event Pattern
   ```
@@ -60,7 +60,7 @@ We will provide  one-stop CDK solution in the furture. But for now, we need blow
 
   Targets to the lambda function.
 
-3. Upload lambda function 
+4. Upload lambda function 
    
    User could just upload main.py to lambda function with python3.8 or above.
 
